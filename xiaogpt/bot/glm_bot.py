@@ -10,7 +10,7 @@ from xiaogpt.bot.base_bot import BaseBot
 
 
 class GLMBot(BaseBot):
-    default_options = {"model": "chatglm_130b"}
+    default_options = {"model": "chatglm_pro"}
 
     def __init__(
         self,

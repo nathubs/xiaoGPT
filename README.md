@@ -155,7 +155,7 @@ Bard-API [参考](https://github.com/dsdanielpark/Bard-API)
 | use_command           | 使用 MI command 与小爱交互                        | `false`                             |
 | mute_xiaoai           | 快速停掉小爱自己的回答                            | `true`                              |
 | verbose               | 是否打印详细日志                                  | `false`                             |
-| bot                   | 使用的 bot 类型，目前支持gpt3,chatgptapi和newbing | `chatgptapi`                        |
+| bot                   | 使用的 bot 类型，目前支持gpt3,chatgptapi,glm,和newbing | `chatgptapi`                        |
 | enable_edge_tts       | 使用Edge TTS                                      | `false`                             |
 | edge_tts_voice        | Edge TTS 的嗓音                                   | `zh-CN-XiaoxiaoNeural`              |
 | prompt                | 自定义prompt                                      | `请用100字以内回答`                 |
